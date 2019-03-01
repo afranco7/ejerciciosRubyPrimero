@@ -1,5 +1,7 @@
 #Defining Variables
-
+first_name = "Alejandro"
+last_name = "Franco"
+age = 32
 # Tu solucion abajo
 
 
